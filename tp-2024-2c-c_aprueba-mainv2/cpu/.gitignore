@@ -1,0 +1,5 @@
+.idea
+.build
+
+internal/core/usecase/cpu_test.go
+internal/entrypoint/handler/cpu_test.go

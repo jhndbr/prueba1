@@ -1,0 +1,22 @@
+{
+    "port": 8002,
+    "memory_size": 256,
+    "instruction_path": "/home/utnso/TPSO2C/tp-2024-2c-c_aprueba/scripprueba/",
+    "response_delay": 1000,
+    "ip_kernel": "127.0.0.1",
+    "port_kernel": 8001,
+    "ip_cpu": "127.0.0.1",
+    "port_cpu": 8003,
+    "ip_filesystem": "127.0.0.1",
+    "port_filesystem": 8004,
+    "scheme": "FIJAS",
+    "search_algorithm": "FIRST",
+    "partitions": [
+        32,
+        16,
+        64,
+        128,
+        16
+    ],
+    "log_level": "TRACE"
+}
