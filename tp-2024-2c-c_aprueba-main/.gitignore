@@ -1,7 +1,0 @@
-.idea
-.build/
-memoria/build/
-kernel/build/
-cpu/build/
-filesystem/build/
-filesystem/MOUNT_DIR/

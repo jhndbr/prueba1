@@ -1,5 +1,0 @@
-logging:
-  level: "debug"
-rest:
-  client: #client definition. If there is a client not listed here but requested in code, it will be created using the default client path.
-    base_url: "localhost"
